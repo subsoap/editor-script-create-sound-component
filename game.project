@@ -1,0 +1,6 @@
+[library]
+include_dirs = editor-script-create-sound-component
+
+[project]
+title = editor-script-create-sound-component
+
